@@ -8,4 +8,10 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="NumPad" >
+        <item name="android:textSize">35dp</item>
+        <item name="android:textColor">@color/colorAccent</item>
+        <item name="android:background">#faf8f8</item>
+    </style>
+
 </resources>
